@@ -42,7 +42,7 @@ The methodology was further evaluated on real data acquired at the Collonges-au-
 
 ## Citation 
 
-If you use this code, dataset, or build upon the proposed methodology, please cite the our paper:
+If you use this code, dataset, or build upon the proposed methodology, please cite our paper:
 ```bibtex
 @article{postInv2026,
   title   = {Neural Post-Processing of Physics-Based 2-D ERT Inversion},
