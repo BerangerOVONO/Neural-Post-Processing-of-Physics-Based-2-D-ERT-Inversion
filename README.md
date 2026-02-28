@@ -36,7 +36,9 @@ The methodology was further evaluated on real data acquired at the Collonges-au-
 
 ![Collonge-Au-Mont-d'Or site](/figs/Study_site.PNG)
 
-![Real field data case](/figs/field_ws_data.PNG)
+![Real field WS data case](/figs/field_ws_data.PNG)
+
+![Real field DD data case](/figs/field_dd_data.PNG)
 
 ## Citation 
 
