@@ -8,7 +8,7 @@ In this work, we introduce a lightweight U-Net–based post-processing network d
 
 ## Data generation 
 
-To support efficient training, we constructed a large-scale and realistic database for Dipole-dipole and Wenner-Schlumberger measurement configurations. The dataset can be regenerated using the code provided in this repository. Alternatively, a pre-generated and compressed version can be downloaded from the link:
+To support efficient training, we constructed a large-scale and realistic database for Dipole-dipole and Wenner-Schlumberger measurement configurations. The dataset can be regenerated using the code provided in this repository. Alternatively, a pre-generated and compressed version can be downloaded at: [https://doi.org/10.18144/343d6f24-0d25-479a-b958-58cbcf4ebe24](https://doi.org/10.18144/343d6f24-0d25-479a-b958-58cbcf4ebe24)
 
 ![Data generation workflow](figs/gen_data_workflow.PNG)
 
